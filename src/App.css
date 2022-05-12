@@ -1,3 +1,8 @@
+body {
+  box-sizing: border-box;
+  padding: 100px;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +31,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.page-header {
+  padding-bottom: 20px;
+}
+
+.list-heading {
+  padding-top: 20px;
+}
+
+Form {
+  padding-bottom: 20px;
 }
 
 @keyframes App-logo-spin {
